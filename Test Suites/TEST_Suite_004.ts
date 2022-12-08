@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TEST_Suite_004</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8c285e45-3529-4943-bc76-001d11051219</testSuiteGuid>
+   <testCaseLink>
+      <guid>0fa7e005-d7c1-4e4d-a907-ed72cb4ec3ec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CURA_TESTCASE</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5915d178-c19b-413d-81b3-df94df4418ef</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5915d178-c19b-413d-81b3-df94df4418ef</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>a24c05fe-9991-4ddf-b539-3274fd66b2d4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5915d178-c19b-413d-81b3-df94df4418ef</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>datej</value>
+         <variableId>cefe4d8c-85f0-489e-9a43-e279953042a4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5915d178-c19b-413d-81b3-df94df4418ef</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>f4029e9c-2c81-4a81-bd55-f71a1f35101c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
