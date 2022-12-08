@@ -36,7 +36,7 @@ WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/inp
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
-    'Seoul CURA Healthcare Center', true)
+    facility, true)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
 
