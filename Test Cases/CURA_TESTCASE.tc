@@ -5,4 +5,43 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>25fb1cb5-652c-4b90-ab8f-bbe835189435</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a24c05fe-9991-4ddf-b539-3274fd66b2d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cefe4d8c-85f0-489e-9a43-e279953042a4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4029e9c-2c81-4a81-bd55-f71a1f35101c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>a24c05fe-9991-4ddf-b539-3274fd66b2d4</id>
+      <masked>true</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'28/12/2022'</defaultValue>
+      <description></description>
+      <id>cefe4d8c-85f0-489e-9a43-e279953042a4</id>
+      <masked>false</masked>
+      <name>datej</name>
+   </variable>
+   <variable>
+      <defaultValue>'yess'</defaultValue>
+      <description></description>
+      <id>f4029e9c-2c81-4a81-bd55-f71a1f35101c</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
 </TestCaseEntity>
